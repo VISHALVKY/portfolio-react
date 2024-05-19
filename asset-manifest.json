@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.b45ad744.css",
+    "main.js": "/portfolio-react/static/js/main.b6323b04.js",
+    "static/media/todoapp.png": "/portfolio-react/static/media/todoapp.3fd65d6fb9e77d181abb.png",
+    "static/media/burger-shop.png": "/portfolio-react/static/media/burger-shop.61b6d36baf289a24e9f7.png",
+    "static/media/Amazon.png": "/portfolio-react/static/media/Amazon.eb9fef230a37f1117106.png",
+    "static/media/Profile.png": "/portfolio-react/static/media/Profile.b26f55158ad377c70bd9.png",
+    "static/media/Weather.png": "/portfolio-react/static/media/Weather.fd8dff101b04ce8a0ffb.png",
+    "static/media/json-crud.png": "/portfolio-react/static/media/json-crud.842a31142822cfea1ad1.png",
+    "static/media/QR.png": "/portfolio-react/static/media/QR.cacae7651345342ccc82.png",
+    "static/media/Text.png": "/portfolio-react/static/media/Text.a62b04c06672d8839401.png",
+    "static/media/markdown.png": "/portfolio-react/static/media/markdown.12215057ee01eb4b3d11.png",
+    "static/media/logo.svg": "/portfolio-react/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
+    "static/media/XO.png": "/portfolio-react/static/media/XO.1a109ed44c97bd49f4f0.png",
+    "static/media/logo2.svg": "/portfolio-react/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
+    "index.html": "/portfolio-react/index.html",
+    "main.b45ad744.css.map": "/portfolio-react/static/css/main.b45ad744.css.map",
+    "main.b6323b04.js.map": "/portfolio-react/static/js/main.b6323b04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45ad744.css",
+    "static/js/main.b6323b04.js"
+  ]
+}
